@@ -21,7 +21,7 @@ Some general templates to create nanopublications (requires [ORCID](https://orci
 
 #### Flagging Papers
 
-- Positively flag paper: [form](https://nanodash.knowledgepixels.com/publish?template=https://w3id.org/np/RAaCJU7pkR0lN9QIlhbc0rV8UOkuoEm2aIA6_hxTG_6Ec) (or [with pre-filled DOI](https://nanodash.knowledgepixels.com/publish?189&template=https://w3id.org/np/RAaCJU7pkR0lN9QIlhbc0rV8UOkuoEm2aIA6_hxTG_6Ec&param_paper=https://doi.org/10.1038/sdata.2016.18))
+- Positively flag paper: [form](https://nanodash.knowledgepixels.com/publish?template=https://w3id.org/np/RA7QYvH8CeADZsPqopmTnBw1pk2CpqFavj1QVQMzd7zCA) (or [with pre-filled DOI](https://nanodash.knowledgepixels.com/publish?189&template=https://w3id.org/np/RA7QYvH8CeADZsPqopmTnBw1pk2CpqFavj1QVQMzd7zCA&param_paper=https://doi.org/10.1038/sdata.2016.18))
 
 ## Querying
 
