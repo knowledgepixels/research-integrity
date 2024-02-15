@@ -19,12 +19,12 @@ This project is about using nanopublications to ensure research integrity and im
 Plain-text Comments:
 
 - Plain-text comment about paper: [form](https://nanodash.knowledgepixels.com/publish?template=http://purl.org/np/RA3gQDMnYbKCTiQeiUYJYBaH6HUhz8f3HIg71itlsZDgA) (or [with pre-filled DOI](https://nanodash.knowledgepixels.com/publish?template=http://purl.org/np/RA3gQDMnYbKCTiQeiUYJYBaH6HUhz8f3HIg71itlsZDgA&param_thing=https://doi.org/10.1038/sdata.2016.18))
-- Example nanopublication: [RAD2nMxJb-](https://w3id.org/np/RAD2nMxJb-BVqTdHY3CRxLEkcYXA2K6GhZg7dqpZHWRhA)
+- [Example nanopublication](https://w3id.org/np/RAD2nMxJb-BVqTdHY3CRxLEkcYXA2K6GhZg7dqpZHWRhA)
 
 Flagging Papers:
 
 - Positively flag paper: [form](https://nanodash.knowledgepixels.com/publish?template=https://w3id.org/np/RA7QYvH8CeADZsPqopmTnBw1pk2CpqFavj1QVQMzd7zCA) (or [with pre-filled DOI](https://nanodash.knowledgepixels.com/publish?189&template=https://w3id.org/np/RA7QYvH8CeADZsPqopmTnBw1pk2CpqFavj1QVQMzd7zCA&param_paper=https://doi.org/10.1038/sdata.2016.18))
-- Example nanopublication: [RAnpjDJ4pk](https://w3id.org/np/RAnpjDJ4pkVBIC0hyjYX5kGsfD9SPD2pmriZnYDHPAkA8)
+- [Example nanopublication](https://w3id.org/np/RAnpjDJ4pkVBIC0hyjYX5kGsfD9SPD2pmriZnYDHPAkA8)
 
 ---
 
@@ -32,3 +32,9 @@ Flagging Papers:
 
 - [Get all paper flags](https://tapas.knowledgepixels.com/tapas.html?api=knowledgepixels/research-integrity&op=/get-paper-flags&autosubmit=on)
 - [Get all statements mentioning a given paper](https://tapas.knowledgepixels.com/tapas.html?api=knowledgepixels/nanopub-query-api&op=/get-subj-refs&autosubmit=on&param_subj=https://doi.org/10.1038/sdata.2016.18)
+
+---
+
+## Background
+
+Publishing and querying is performed on the global decentralized network of nanopublication services. See for example [this monitor](https://monitor.knowledgepixels.com/).
