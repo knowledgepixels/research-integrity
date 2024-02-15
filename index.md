@@ -2,6 +2,10 @@
 
 This is a project in brainstorming phase.
 
+- The links below use our tools, and we can quickly spin up **demos** with them.
+- These tools use decentralizied **APIs** for all data-related features (no data is stored locally!)
+- This means that all this can be done in **your own systems** at a later point, if desired
+
 ### Creation
 
 Some general templates to create nanopublications (requires [ORCID](https://orcid.org) login):
