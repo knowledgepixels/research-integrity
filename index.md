@@ -8,8 +8,8 @@ This project is about using nanopublications to ensure research integrity and im
 
 ## Demos and APIs
 
-- The links go to quick **demos** based on our tools
-- These tools are fully built upon decentralizied **APIs**
+- The links below go to quick technical **demos**
+- These are fully built upon decentralizied **APIs**
 - Therefore, all this can easily be built into **your own systems**
 
 ---
