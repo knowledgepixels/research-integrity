@@ -28,7 +28,7 @@ For editors/reviewers to **positively flag papers**:
 
 For authors to **declare manuscripts** (which can then be confirmed by others, e.g. the mentioned organization):
 
-- [Publishing form](https://nanodash.petapico.org/publish?template=https://w3id.org/np/RAN5Mdzqj_aO88RRAS4FC5NiPOCWf8l6zV7v-XJ4raUZk)
+- [Publishing form](https://nanodash.knowledgepixels.com/publish?template=https://w3id.org/np/RAN5Mdzqj_aO88RRAS4FC5NiPOCWf8l6zV7v-XJ4raUZk)
 - [Example nanopublication](https://w3id.org/np/RAXOw75dxZsZ9YBwVAo2KdH6zdC8cxehT7lB8i0DYUtpY)
 
 ---
