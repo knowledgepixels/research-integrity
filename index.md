@@ -1,8 +1,8 @@
 # Research Integrity
 
-Using nanopublications to ensure research integrity and improve the scientific paper workflows.
+_- in brainstorming phase -_
 
-_This is a project in brainstorming phase._
+This project is about using nanopublications to ensure research integrity and improve the scientific paper workflows.
 
 ---
 
@@ -30,4 +30,5 @@ Flagging Papers:
 
 ## Querying
 
+- [Get all paper flags](https://tapas.knowledgepixels.com/tapas.html?api=knowledgepixels/research-integrity&op=/get-paper-flags&autosubmit=on)
 - [Get all statements mentioning a given paper](https://tapas.knowledgepixels.com/tapas.html?api=knowledgepixels/nanopub-query-api&op=/get-subj-refs&autosubmit=on&param_subj=https://doi.org/10.1038/sdata.2016.18)
