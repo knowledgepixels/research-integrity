@@ -12,6 +12,8 @@ This project is about using nanopublications to ensure research integrity and im
 - These are fully built upon decentralizied **APIs**
 - Therefore, all this can easily be built into **your own systems**
 
+These are all just **starting points for discussion**, to show what kind of things we could do. But they'd need further discussion and work, of course, and there are many other options.
+
 ---
 
 ## Publishing
