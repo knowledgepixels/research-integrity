@@ -23,7 +23,7 @@ For editors/reviewers to **positively flag papers**:
 - [Publishing form](https://nanodash.knowledgepixels.com/publish?template=https://w3id.org/np/RA7QYvH8CeADZsPqopmTnBw1pk2CpqFavj1QVQMzd7zCA) (or [with pre-filled DOI](https://nanodash.knowledgepixels.com/publish?189&template=https://w3id.org/np/RA7QYvH8CeADZsPqopmTnBw1pk2CpqFavj1QVQMzd7zCA&param_paper=https://doi.org/10.1038/sdata.2016.18))
 - [Example nanopublication](https://w3id.org/np/RAnpjDJ4pkVBIC0hyjYX5kGsfD9SPD2pmriZnYDHPAkA8)
 
-For authors to **declare manuscripts** (which can then be confirmed by others, e.g. the mentioned organization):
+For authors to **declare manuscripts** (which are typically not open at that stage; these declarations could then be confirmed by others, e.g. the mentioned organization):
 
 - [Publishing form](https://nanodash.knowledgepixels.com/publish?template=https://w3id.org/np/RAN5Mdzqj_aO88RRAS4FC5NiPOCWf8l6zV7v-XJ4raUZk)
 - [Example nanopublication](https://w3id.org/np/RAXOw75dxZsZ9YBwVAo2KdH6zdC8cxehT7lB8i0DYUtpY)
