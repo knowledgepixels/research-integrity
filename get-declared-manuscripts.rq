@@ -1,0 +1,27 @@
+#+ endpoint: https://query.np.trustyuri.net/repo/type/2b3dd81cf9f6bff6e8dd01c04772508b1b28fd94aa86b1c1c7830b9c51bd4871
+
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix np: <http://www.nanopub.org/nschema#>
+prefix npa: <http://purl.org/nanopub/admin/>
+prefix npx: <http://purl.org/nanopub/x/>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix dct: <http://purl.org/dc/terms/>
+prefix prov: <http://www.w3.org/ns/prov#>
+prefix foaf: <http://xmlns.com/foaf/0.1/>
+
+select ?manuscript ?title ?author ?org ?np ?date ?creator where {
+  graph npa:graph {
+    ?np npa:hasValidSignatureForPublicKey ?pubkey .
+    ?np dct:created ?date .
+    ?np dct:creator ?creator .
+    ?np np:hasAssertion ?assertion .
+    filter not exists { ?npx npx:invalidates ?np ; npa:hasValidSignatureForPublicKey ?pubkey . }
+  }
+  graph ?assertion {
+    ?manuscript a <http://purl.org/spar/fabio/ScholarlyWork> .
+    ?manuscript dct:title ?title .
+    ?manuscript <https://w3id.org/kpxl/ri/hasFirstAuthor> ?author .
+    ?manuscript <https://w3id.org/kpxl/ri/wasConductedAt> ?org .
+  }
+}
+order by desc(?date)
