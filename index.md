@@ -40,7 +40,7 @@ For editors/reviewers/researchers to **make plain-text comments** about papers:
 The knowledge entered above can then be queried globally, for example:
 
 - [Get all paper flags](https://tapas.knowledgepixels.com/tapas.html?api=knowledgepixels/research-integrity&op=/get-paper-flags&autosubmit=on)
-- [Get all paper flags](https://tapas.knowledgepixels.com/tapas.html?api=knowledgepixels/research-integrity&op=/get-declared-manuscripts&autosubmit=on)
+- [Get all manuscript declarations](https://tapas.knowledgepixels.com/tapas.html?api=knowledgepixels/research-integrity&op=/get-declared-manuscripts&autosubmit=on)
 - [Get all statements mentioning a given paper](https://tapas.knowledgepixels.com/tapas.html?api=knowledgepixels/nanopub-query-api&op=/get-subj-refs&autosubmit=on&param_subj=https://doi.org/10.1038/sdata.2016.18)
 
 ---
