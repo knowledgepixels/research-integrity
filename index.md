@@ -4,9 +4,9 @@ This is a project in brainstorming phase.
 
 ### Demos and APIs
 
-- The links below use our tools, and we can quickly spin up **demos** with them
-- These tools use decentralizied **APIs** for all data-related features (no data is stored locally)
-- This means that all this can be done in **your own systems** at a later point, if desired
+- The links go to quick **demos** based on our tools
+- These tools are fully built upon decentralizied **APIs**
+- Therefore, all this can easily be built into **your own systems**
 
 ### Creation
 
